@@ -1,4 +1,4 @@
-MidiVisualController
+# MidiVisualController
 
 Control some visuals with a midi controller
 
